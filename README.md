@@ -1,8 +1,6 @@
 # Minimal App Posts
-___
 
 🌟 Este projeto demonstra a utilização das principais features do `react` e `react-router-dom`.
-___
 
 ## Funcionalidades
 
@@ -14,7 +12,6 @@ Neste projeto, você encontrará:
 - ✅ **Visualização de detalhes dos posts:** Exibe detalhes específicos de um post.
 - ✅ **Lista de posts:** Mostra uma lista de todos os posts criados.
 - ✅ **Utilização do hook `useLoaderData`:** Usado para carregar, listar e visualizar posts de forma assíncrona.
-___
 
 ## Configuração do Roteamento
 
@@ -55,7 +52,6 @@ export default router
 
 ```
 
-___
 ## Instalação e Execução do Projeto
 
 Para instalar e executar o projeto, siga os passos abaixo:
@@ -81,7 +77,8 @@ cd minimal-app-posts/frontend
 npm install
 npm run start
 ```
----
+___
+
 ![GitHub](https://img.shields.io/badge/GitHub-App_Posts-blue?logo=github)
 ![React](https://img.shields.io/badge/React-gray?logo=react)
 ![React_Router](https://img.shields.io/badge/React_Router-gray?logo=react-router)
