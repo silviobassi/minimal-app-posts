@@ -11,7 +11,7 @@ Neste projeto, você encontrará:
 - ✅ **Adição de novos posts:** Interface para criação de novos posts.
 - ✅ **Visualização de detalhes dos posts:** Exibe detalhes específicos de um post.
 - ✅ **Lista de posts:** Mostra uma lista de todos os posts criados.
-- ✅ **Utilização do hook `useLoaderData`:** Usado para carregar, listar e visualizar posts de forma assíncrona.
+- ✅ **Utilização do hook `useLoaderData()`:** Usado para carregar, listar e visualizar posts de forma assíncrona.
 
 ## Configuração do Roteamento
 
