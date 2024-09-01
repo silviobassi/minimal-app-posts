@@ -77,6 +77,7 @@ cd minimal-app-posts/frontend
 npm install
 npm run start
 ```
+
 ___
 
 ![GitHub](https://img.shields.io/badge/GitHub-App_Posts-blue?logo=github)
