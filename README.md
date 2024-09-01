@@ -1,1 +1,0 @@
-# minimal-app-posts
